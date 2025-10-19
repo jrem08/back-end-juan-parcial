@@ -1,4 +1,4 @@
-# Backend de Usuarios – Parcial
+# Back-end de Usuarios – Parcial
 
 > Repositorio oficial del backend desarrollado para el parcial del día **domingo**. Sobre usuarios utilizando React para el Front-end y Node.js + Express para el Back-end con métodos GET y POST + Mockaroo.
 
@@ -20,10 +20,13 @@ Este backend expone una API RESTful construida con **Node.js + Express + Postman
 
 ## Tecnologías utilizadas
 
-- **Node.js**
-- **Express.js**
-- **JavaScript (ES6+)**
-- Dependencias declaradas en `package.json`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
@@ -42,3 +45,6 @@ npm install
 
 ### 4. Ejecuta el servidor
 npm run dev
+
+---
+
