@@ -31,14 +31,14 @@ Este backend expone una API RESTful construida con **Node.js + Express + Postman
 
 > Sigue estos pasos para clonar y correr el proyecto en local:
 
-# 1. Clona el repositorio
+### 1. Clona el repositorio
 git clone https://github.com/jrem08/back-end-juan-parcial.git
 
-# 2. Accede a la carpeta del proyecto
+### 2. Accede a la carpeta del proyecto
 cd back-juan
 
-# 3. Instala las dependencias
+### 3. Instala las dependencias
 npm install
 
-# 4. Ejecuta el servidor
+### 4. Ejecuta el servidor
 npm run dev
