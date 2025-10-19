@@ -3,11 +3,10 @@
     "express": "^5.1.0",
     "cors": "^2.8.5"
   },
-
   "scripts": {
-  "dev": "nodemon index.js"
-},
-
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^3.1.10"
   }
